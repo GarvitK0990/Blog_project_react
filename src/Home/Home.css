@@ -1,0 +1,119 @@
+.mainPage{
+    width: auto;
+    /* position:fixed; */
+}
+.main {
+    height: 94vh;
+    width:90%;
+    margin: 70px;
+    /* position:absolute; */
+}
+
+.side {
+    margin-left: 70px;
+    /* margin-right: 70px; */
+    height: 60vh;
+    width: 40vw;
+    position: relative;
+    display: inline;
+}
+
+.side1 {
+    margin-left: 140px;
+    /* margin-right: 70px; */
+    height: 60vh;
+    width: 40vw;
+    position: relative;
+    display: inline;
+}
+
+.imgtext {
+    position: absolute;
+    bottom: -65px;
+    left: 100px;
+    font-size: 75px;
+    color: aliceblue;
+}
+
+.imgtext1 {
+    position: absolute;
+    bottom: -625px;
+    left: 850px;
+    font-size: 35px;
+    color: aliceblue;
+}
+
+.imgtext2 {
+    position: absolute;
+    bottom: -678px;
+    left: 850px;
+    font-size: 35px;
+    color: aliceblue;
+}
+
+.imgtext3 {
+    position: absolute;
+    bottom: -625px;
+    left: 100px;
+    font-size: 35px;
+    color: aliceblue;
+}
+
+.imgtext4 {
+    position: absolute;
+    bottom: -678px;
+    left: 100px;
+    font-size: 35px;
+    color: aliceblue;
+}
+
+.imgtexts {
+    position: absolute;
+    bottom: -110px;
+    left: 110px;
+    font-size: 25px;
+    color: aliceblue;
+}
+
+.imgtexts1 {
+    position: absolute;
+    bottom: -725px;
+    left: 855px;
+    font-size: 25px;
+    color: aliceblue;
+}
+
+.imgtexts2 {
+    position: absolute;
+    bottom: -725px;
+    left: 100px;
+    font-size: 25px;
+    color: aliceblue;
+}
+
+.peoplerev {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    height: 100%;
+    margin-top: 70px;
+    margin-left: 93px;
+    /* margin-right: 100px; */
+
+}
+
+.img {
+    height: 250px;
+    width: 375px;
+}
+
+.info {
+    font-size: 30px;
+    margin-top: 10px;
+    margin-right: 70px;
+}
+
+.infos {
+    font-size: 20px;
+    margin-top: 10px;
+    margin-right: 80px;
+}

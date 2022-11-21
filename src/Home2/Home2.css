@@ -1,0 +1,177 @@
+.lside {
+    width: 100%;
+    display: flex;
+    /* position: relative; */
+    /* flex: 50%; */
+}
+
+.adv{
+    width: 300px;
+    margin-left: 100px;
+    height: 1100px;
+    border: 2px solid black;
+}
+
+.rside {
+    border: 2px solid black;
+    width: 28%;
+    left: -25px;
+    height: 1100px;
+    display: inline-block;
+    position: relative;
+    top: 0px;
+    /* right: 0px; */
+    /* flex: 50%; */
+
+}
+
+.img0 {
+    height: 200px;
+    width: 300px;
+    margin-left: 200px;
+
+}
+
+.img1 {
+    height: 150px;
+    width: 200px;
+    top: -1600px;
+    left: 100px;
+    position: relative;
+}
+
+.img2 {
+    height: 150px;
+    width: 200px;
+    top: -1350px;
+    left: -204px;
+    position: relative;
+}
+
+.img3 {
+    height: 150px;
+    width: 200px;
+    top: -1250px;
+    left: 990px;
+    position: relative;
+}
+
+.img4 {
+    height: 150px;
+    width: 200px;
+    top: -990px;
+    left: 685px;
+    position: relative;
+}
+
+.cap {
+    font-size: 30px;
+    position: relative;
+    top: -170px;
+    left: 20px;
+    width: 500px;
+}
+
+.cap7{
+    font-size: 30px;
+    position: relative;
+    top: -200px;
+    left: 520px;
+    width: 500px;
+}
+
+.cap1 {
+    font-size: 20px;
+    position: relative;
+    top: -1680px;
+    left: 150px;
+}
+
+.cap2 {
+    font-size: 20px;
+    position: relative;
+    top: -1580px;
+    left: 1345px;
+}
+
+.cap3 {
+    font-size: 20px;
+    position: relative;
+    top: -1320px;
+    left: 1045px;
+}
+
+.cap4 {
+    font-size: 20px;
+    position: relative;
+    top: -1070px;
+    left: 740px;
+}
+
+.subcap {
+    font-size: 15px;
+    position: relative;
+    top: -150px;
+    left: 520px;
+    width: 450px;
+}
+
+.subcap1 {
+    font-size: 15px;
+    position: relative;
+    left: -930px;
+    top: -100px;
+}
+
+.sides {
+    margin-left: 70px;
+    /* margin-right: 70px; */
+    height: 80vh;
+    width: 60vw;
+    position: relative;
+    /* display: inline; */
+}
+
+
+
+.imgtexts3 {
+    position: absolute;
+    font-size: 40px;
+    top: 3800px;
+    left: 400px;
+    color: rgb(255, 255, 255);
+}
+
+.imgtextss2 {
+    position: absolute;
+    top: 3870px;
+    left: 410px;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+}
+
+.info1{
+    font-size: 30px;
+    margin-top: 10px;
+    margin-right: 70px;
+    margin-bottom: 30px;
+
+}
+
+.rev1{
+    border-left: 1px solid black;
+    padding: 20px;;
+}
+
+.bottom{
+    width: 95%;
+    font-size: 20px;
+    text-align: center; 
+    margin: 15px;
+    background-color: rgb(240, 215, 175);
+}
+
+/* .text{
+    position: relative;
+    top: -150px;
+} */
